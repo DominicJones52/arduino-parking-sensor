@@ -39,23 +39,23 @@ The project is designed to act like a simple parking assist system with Safe, Ca
 
 ### Full Wiring Setup
 
-![Full Wiring Setup](images/parking-wiring-setup-1.jpg)
+![Full Wiring Setup](images/parking-wiring-setup-1.jpeg)
 
 ### Additional Wiring Angle
 
-![Additional Wiring Angle](images/parking-wiring-setup-2.jpg)
+![Additional Wiring Angle](images/parking-wiring-setup-2.jpeg)
 
 ### Ultrasonic Sensor Close-Up
 
-![Ultrasonic Sensor Close-Up](images/parking-ultrasonic-sensor.jpg)
+![Ultrasonic Sensor Close-Up](images/parking-ultrasonic-sensor.jpeg)
 
 ### LCD and Alert Wiring
 
-![LCD and Alert Wiring](images/parking-lcd-led-buzzer.jpg)
+![LCD and Alert Wiring](images/parking-lcd-led-buzzer.jpeg)
 
 ### Final Demo Setup
 
-![Final Demo Setup](images/parking-final-demo.jpg)
+![Final Demo Setup](images/parking-final-demo.jpeg)
 
 ## Pin Connections
 
